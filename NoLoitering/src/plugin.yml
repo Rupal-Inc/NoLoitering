@@ -1,0 +1,11 @@
+main: me.rupalinc.NoLoitering.Main
+name: NoLoitering
+version: 0.01
+author: chris
+api-version: 1.15
+
+commands:
+  stickyfeet:
+    description: StickyFeet plugin root command
+  version:
+    description: gives you the current version of the plugin
